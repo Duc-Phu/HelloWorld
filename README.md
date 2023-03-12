@@ -7,4 +7,4 @@ hi Team 10
 
 12/3
 *Nguyen Cao Thang*
-hello Team 10
+hello Nhom 10
