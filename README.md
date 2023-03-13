@@ -4,4 +4,4 @@ Github helloworld
 
 Read me edit at edit-branch
 
-I'll make a conflict
+I'll make a conflict.
